@@ -1,0 +1,38 @@
+{
+  "name": "addwin.org",
+  "short_name": "AddWin",
+  "start_url": "https://www.addwin.org/",
+  "display": "standalone",
+  "background_color": "#e9ebee",
+  "theme_color": "#4267b2",
+  "description": "AddWin.org Premium Download Pro Full Version",
+  "icons": [{
+    "src": "https://lh4.googleusercontent.com/-GwnF1M-N7FU/Xk1lIy8rg6I/AAAAAAAADc4/2AunIkGUwpA2f1TZJN4kYblxEdfZplORQCLcBGAsYHQ/s48/android-icon-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://lh4.googleusercontent.com/-GwnF1M-N7FU/Xk1lIy8rg6I/AAAAAAAADc4/2AunIkGUwpA2f1TZJN4kYblxEdfZplORQCLcBGAsYHQ/s72/android-icon-192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh4.googleusercontent.com/-GwnF1M-N7FU/Xk1lIy8rg6I/AAAAAAAADc4/2AunIkGUwpA2f1TZJN4kYblxEdfZplORQCLcBGAsYHQ/s96/android-icon-192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh4.googleusercontent.com/-GwnF1M-N7FU/Xk1lIy8rg6I/AAAAAAAADc4/2AunIkGUwpA2f1TZJN4kYblxEdfZplORQCLcBGAsYHQ/s144/android-icon-192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://lh4.googleusercontent.com/-GwnF1M-N7FU/Xk1lIy8rg6I/AAAAAAAADc4/2AunIkGUwpA2f1TZJN4kYblxEdfZplORQCLcBGAsYHQ/s168/android-icon-192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://lh4.googleusercontent.com/-GwnF1M-N7FU/Xk1lIy8rg6I/AAAAAAAADc4/2AunIkGUwpA2f1TZJN4kYblxEdfZplORQCLcBGAsYHQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://lh4.googleusercontent.com/-Kivlp--y5h8/Xk1psZkkF0I/AAAAAAAADdc/9pXutP9aaiQgWEAgZ5Jl0UQWcPKPKHr2QCLcBGAsYHQ/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
