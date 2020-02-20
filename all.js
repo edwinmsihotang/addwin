@@ -908,35 +908,3 @@ function(){Wl(self);Xl(a);b.coreServicesAvailable();fh()});mi(self.document,func
 self.console&&(console.info||console.log).call(console,"Powered by AMP \u26a1 HTML \u2013 Version 2002112037430",self.location.href);self.document.documentElement.setAttribute("amp-version","2002112037430")};})(AMP._=AMP._||{})}catch(e){setTimeout(function(){var s=document.body.style;s.opacity=1;s.visibility="visible";s.animation="none";s.WebkitAnimation="none;"},1000);throw e};
 
 //# sourceMappingURL=v0.js.map
-
-//# var disqus comments
-						var disqus_blogger_current_url = &quot;<data:blog.canonicalUrl/>&quot;;
-						if (!disqus_blogger_current_url.length) {
-							disqus_blogger_current_url = &quot;<data:blog.url/>&quot;;
-						}
-						var disqus_blogger_homepage_url = &quot;<data:blog.homepageUrl/>&quot;;
-						var disqus_blogger_canonical_homepage_url = &quot;<data:blog.canonicalHomepageUrl/>&quot;;
-						//<![CDATA[
-						var disqus_shortname = 'addwin';// disqus custom shortname for moderation
-						var disqus_url = disqus_blogger_current_url;
-						(function () {
-							"use strict";
-							var get_comment_block = function () {
-								var block = document.getElementById('disqus-comments-holder');
-								return block;
-							};
-							var comment_block = get_comment_block();
-							if (!!comment_block) {
-								var disqus_div = document.createElement('div');
-								disqus_div.id = 'disqus_thread';
-								comment_block.innerHTML = '';
-								comment_block.appendChild(disqus_div);
-								comment_block.style.display = 'block';
-								var dsq = document.createElement('script');
-								dsq.async = true;
-								dsq.src = 'https://' + disqus_shortname + '.disqus.com/embed.js';
-								(document.getElementsByTagName('head')[0] || document.body).appendChild(dsq);
-							}
-						})();
-						//]]>
-//# var disqus comments end.
