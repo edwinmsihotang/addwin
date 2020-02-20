@@ -939,4 +939,4 @@ self.console&&(console.info||console.log).call(console,"Powered by AMP \u26a1 HT
 							}
 						})();
 						//]]>
-//# var disqus comments end
+//# var disqus comments end.
